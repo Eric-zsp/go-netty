@@ -23,7 +23,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/go-netty/go-netty/utils"
+	"github.com/Eric-zsp/go-netty/utils"
 )
 
 // Option defines option function

@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/go-netty/go-netty/transport"
-	"github.com/go-netty/go-netty/transport/tcp"
+	"github.com/Eric-zsp/go-netty/transport"
+	"github.com/Eric-zsp/go-netty/transport/tcp"
 )
 
 // Bootstrap makes it easy to bootstrap a channel

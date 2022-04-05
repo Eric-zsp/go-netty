@@ -20,10 +20,11 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"github.com/go-netty/go-netty"
-	"github.com/go-netty/go-netty/utils"
 	"strings"
 	"testing"
+
+	"github.com/Eric-zsp/go-netty"
+	"github.com/Eric-zsp/go-netty/utils"
 )
 
 func TestVarintLengthFieldCodec(t *testing.T) {

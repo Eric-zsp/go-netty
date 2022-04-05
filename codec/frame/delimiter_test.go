@@ -19,11 +19,12 @@ package frame
 import (
 	"bytes"
 	"fmt"
-	"github.com/go-netty/go-netty/utils"
 	"strings"
 	"testing"
 
-	"github.com/go-netty/go-netty"
+	"github.com/Eric-zsp/go-netty/utils"
+
+	"github.com/Eric-zsp/go-netty"
 )
 
 func TestDelimiterCodec(t *testing.T) {

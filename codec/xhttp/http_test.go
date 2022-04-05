@@ -24,7 +24,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/go-netty/go-netty"
+	"github.com/Eric-zsp/go-netty"
 )
 
 func TestServerCodec(t *testing.T) {

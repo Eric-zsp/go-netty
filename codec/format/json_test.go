@@ -20,9 +20,10 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/go-netty/go-netty"
-	"github.com/go-netty/go-netty/utils"
 	"testing"
+
+	"github.com/Eric-zsp/go-netty"
+	"github.com/Eric-zsp/go-netty/utils"
 )
 
 func TestJsonCodec_HandleWrite(t *testing.T) {

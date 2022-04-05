@@ -20,9 +20,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/go-netty/go-netty"
-	"github.com/go-netty/go-netty/codec"
-	"github.com/go-netty/go-netty/utils"
+	"github.com/Eric-zsp/go-netty"
+	"github.com/Eric-zsp/go-netty/codec"
+	"github.com/Eric-zsp/go-netty/utils"
 )
 
 // PacketCodec create packet codec

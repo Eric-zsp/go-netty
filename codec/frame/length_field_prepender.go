@@ -18,8 +18,9 @@ package frame
 
 import (
 	"encoding/binary"
-	"github.com/go-netty/go-netty"
-	"github.com/go-netty/go-netty/utils"
+
+	"github.com/Eric-zsp/go-netty"
+	"github.com/Eric-zsp/go-netty/utils"
 )
 
 // LengthFieldPrepender for LengthFieldCodec

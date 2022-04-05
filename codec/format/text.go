@@ -17,11 +17,12 @@
 package format
 
 import (
-	"github.com/go-netty/go-netty/utils"
 	"strings"
 
-	"github.com/go-netty/go-netty"
-	"github.com/go-netty/go-netty/codec"
+	"github.com/Eric-zsp/go-netty/utils"
+
+	"github.com/Eric-zsp/go-netty"
+	"github.com/Eric-zsp/go-netty/codec"
 )
 
 // TextCodec create a text codec

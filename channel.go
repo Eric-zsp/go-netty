@@ -24,8 +24,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/go-netty/go-netty/transport"
-	"github.com/go-netty/go-netty/utils"
+	"github.com/Eric-zsp/go-netty/transport"
+	"github.com/Eric-zsp/go-netty/utils"
 )
 
 // Channel is defines a server-side-channel & client-side-channel
