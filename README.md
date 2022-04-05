@@ -22,11 +22,11 @@
 
 ## Introduction
 
-go-netty is heavily inspired by [netty](https://github.com/netty/netty)
+go-netty is heavily inspired by [netty](https://github.com/Eric-zsp/go-netty)
 
 ## Feature
 
-* Extensible transport support, default support TCP, [UDP, QUIC, KCP, Websocket](https://github.com/Eric-zsp/go-netty-transport)
+* Extensible transport support, default support TCP, UDP, TLS](https://github.com/Eric-zsp/go-netty-transport)
 * Extensible codec support
 * Based on responsibility chain model
 * Zero-dependency
